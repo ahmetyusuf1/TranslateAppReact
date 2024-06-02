@@ -1,8 +1,19 @@
-# React + Vite
+<h1>Translate App Project</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>translate app</p>
 
-Currently, two official plugins are available:
+<h2>Used Technologies</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+
+<li>axios</li>
+<li>react-redux</li>
+<li>redux-toolkit</li>
+<li>react-select</li>
+<li>sass</li>
+
+</ul>
+
+<h1>Screen Gif</h1>
+
+<img src="/public/translateapp.gif" />
